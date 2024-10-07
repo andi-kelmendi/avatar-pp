@@ -1,0 +1,24 @@
+
+
+img {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    border: 5px solid black
+}
+
+.avatar {
+    position: relative;
+    width: max-content;
+}
+
+.status {
+    position: absolute;
+    right: 0;
+    bottom: 2px;
+    background-color: green;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 4px solid black;
+}
